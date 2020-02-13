@@ -1,0 +1,4 @@
+beautifulsoup4==4.8.1
+requests==2.22.0
+sanic==19.9.0
+sanic_limiter
